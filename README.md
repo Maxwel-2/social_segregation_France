@@ -17,7 +17,7 @@ Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and A
 
 ## How to use ? 
 
-0) Download shapefile here : https://mega.nz/#F!nkJniKJR!vVM8WesHfdZ8CF7RiPw6EA 
+0) If you want to run Paris example you have to download the shapefile [here]( https://mega.nz/#F!nkJniKJR!vVM8WesHfdZ8CF7RiPw6EA) and put it into social_segregation_France file.
 
 1) Open Segregation_analysis.py 
 
