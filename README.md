@@ -17,6 +17,8 @@ Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and A
 
 ## How to use ? 
 
+0) Download shapefile here : https://mega.nz/#F!nkJniKJR!vVM8WesHfdZ8CF7RiPw6EA 
+
 1) Open Segregation_analysis.py 
 
 2) Put your geodataframe in df. 
