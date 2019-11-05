@@ -17,7 +17,7 @@ Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and A
 
 ## How to use ? 
 
-0) If you want to run Paris example you have to download the shapefile [here]( https://mega.nz/#F!nkJniKJR!vVM8WesHfdZ8CF7RiPw6EA) and put it into social_segregation_France file.
+0) If you want to run Paris example you must download the shapefile [here]( https://mega.nz/#F!nkJniKJR!vVM8WesHfdZ8CF7RiPw6EA) and put it into social_segregation_France file.
 
 1) Open Segregation_analysis.py 
 
@@ -29,5 +29,5 @@ Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and A
  
 This is the algorithme applied on the 10 most populated cities in france. On the first map, colors fit the ratio convergence speed and they fit starting social housing ratio in the second map. The first graph represent the trajectories for every starting point : a blue vertical bar mean a unit converges towards mean at this agregation level and horizontal bars reprensent boundaries.
 
-You just have to run the script from terminal. In a compiler, you just have to put path of social_segregation_France file.
+You need to run the script from terminal. In a compiler, you just have to put path of social_segregation_France file.
 
