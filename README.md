@@ -2,7 +2,7 @@
 
 Lil' Python program I've coded during a R&D internship used to analyse social segregation at multiple scales on a geodataframe. It agregate two populations distincly, here social housing and total housing, and we're looking at the social housing rate for every starting point and every agregation level. 
 
-All data come from the 2013 national Census leaded by the INSEE. Avaible at https://www.insee.fr/fr/statistiques/2409491?sommaire=2409559.
+All data come from the 2013 national Census leaded by the INSEE. Avaible [here](https://www.insee.fr/fr/statistiques/2409491?sommaire=2409559).
 
 Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and Antoine LUCQUIAUD in "From urban segregation to spatial structure detection" published in Environment and Planning B: Urban Analytics and City Science in 2017. This model was generalized since, more details in "Segregation through the multiscalar lens" published in PNAS by Madalina OLTEANU, Julien RANDON-FURLING and William A. V. CLARK in 2019. 
 
