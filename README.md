@@ -27,7 +27,7 @@ Based on a method developped by Julien RANDON-FURLING and Madalina OLTEANU and A
 
 ## Paris Example : 
  
-This is the algorithme applied on the 10 most populated cities in france. On the first map, colors fit the ratio convergence speed and they fit starting social housing ratio in the second map. The first graph represent the trajectories for every starting point : a blue vertical bar mean a unit converges towards mean at this agregation level and horizontal bars reprensent boundaries.
+This is the algorithme applied on the 10 most populated cities in france. On the first map, colors fit the ratio convergence speed and they fit starting social housing ratio in the second map. The first graph represents the trajectories for every starting point : a blue vertical bar means a unit converges towards mean at this agregation level and horizontal bars reprensents boundaries.
 
 You need to run the script from terminal. In a compiler, you just have to put path of social_segregation_France file.
 
